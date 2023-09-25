@@ -5,8 +5,7 @@ body {
     padding: 0;
     overflow-x: hidden;
     /* Linear gradient background */
-    background: linear-gradient(to bottom, #3498db, #9b59b6); /* Gradient from blue to purple */
-    color: #fff; /* Set the default text color to white for better visibility on the gradient */
+    background-color: #62777a; /* Gradient from blue to purple */
 }
 
 header {
